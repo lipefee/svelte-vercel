@@ -37,7 +37,7 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Great successdasdadposkdpoaksdpokspodka!</h1>
 
 <figure>
 	<figcaption>Have fun with Sapper!</figcaption>
